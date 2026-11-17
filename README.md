@@ -76,8 +76,13 @@ Right now I'm levelling up on **Java, Spring Boot, REST APIs and React** to buil
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ppradeep123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ppradeep123&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=Ppradeep123&show_icons=true&theme=tokyonight&hide_border=true"
+alt="GitHub Stats" />
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ppradeep123&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages" />
 
 <br/><br/>
 
