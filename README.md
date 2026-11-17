@@ -1,357 +1,119 @@
-
-<!--
-  PRadeep Patil | GitHub Profile
-  Theme: Cyber Futuristic / Electric Blue
-  Single-file README — no local assets required
--->
-
-<!-- ================ CINEMATIC HERO ================ -->
-
 <div align="center">
 
-<img width="100%" height="220" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:071B3B,65:0B3D70,100:0077FF&height=240&section=header&text=PRADEEP%20PATIL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=19&descColor=60C8FF&descAlignY=60&animation=fadeIn"/>
+<img src="assets/header.svg" width="100%" alt="Pradeep Patil - Java Full Stack Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Welcome+to+my+digital+workspace.;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Applications.;Learning.+Building.+Improving.+Every+Day." />
+<img src="https://komarev.com/ghpvc/?username=Ppradeep123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge" alt="open to work" />
 
 <br/><br/>
 
-<a href="https://github.com/Ppradeep123">
-<img src="https://komarev.com/ghpvc/?username=Ppradeep123&style=for-the-badge&color=0077FF&label=PROFILE+VISITORS"/>
-</a>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00C896?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pradeep-patil-2b5896331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ppradeep123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:patilp9931@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/pradeep-patil-2b5896331/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:patilp9931@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Ppradeep123">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<br/><br/>
+<img src="assets/title-about.svg" width="100%" alt="About Me" />
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077FF,50:38BDF8,100:0077FF&height=2&section=header"/>
+<br/>
 
-</div>
-
-<!-- ================ ABOUT ME ================ -->
-
-<h2 align="center">◈ &nbsp; SYSTEM PROFILE</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IDENTITY-Developer-0B1B35?style=flat-square&labelColor=0077FF"/>
-<img src="https://img.shields.io/badge/FOCUS-Java%20Full%20Stack-0B1B35?style=flat-square&labelColor=0077FF"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-6%20Month%20Internship-0B1B35?style=flat-square&labelColor=0077FF"/>
+<img src="assets/terminal.svg" width="85%" alt="Terminal: Pradeep Patil, Java Full Stack Developer, B.Tech CSE 2026, open to entry-level roles" />
 
 </div>
 
 <br/>
 
-```yaml
-name: Pradeep Patil
-role: Aspiring Java Full Stack Developer
-education: B.Tech Computer Science (2022-2026)
-location: India
+I'm a Computer Science graduate and aspiring **Java Full Stack Developer** with hands-on experience building web apps using **PHP Laravel, MySQL, JavaScript and Bootstrap**. During my internship I worked on a **Human Resource Management System (HRMS)**, gaining practical experience in backend development, database design, authentication and MVC architecture.
 
-experience:
-  company: Seaquid Technology
-  position: Software Development Intern
-  duration: April 2026 - September 2026
-  domain: Web Application Development
-
-currently_working_on:
-  - Java
-  - Spring Boot
-  - REST API Development
-  - React
-  - SQL
-
-career_goal: Java Full Stack Developer
-status: Open to Entry-Level Opportunities
-```
-
-### 👨‍💻 Who Am I?
-
-I'm a Computer Science graduate passionate about software development and building practical applications.
-
-I completed a six-month internship at **Seaquid Technology, Kolhapur**, where I worked on live web development projects, including an HRMS application using PHP Laravel and MySQL.
-
-My experience includes working with dashboard interfaces, authentication, forms, backend operations and database integration.
-
-Currently, I'm strengthening my Java Full Stack development skills with Java, Spring Boot, Hibernate, REST APIs, React and SQL.
-
-I believe in learning by building real-world projects and continuously improving my development skills.
+Right now I'm levelling up on **Java, Spring Boot, REST APIs and React** to build production-ready full stack applications.
 
 <br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0B3D70&height=3&section=header"/>
-
-</div>
-
-<!-- ================ TECH STACK ================ -->
-
-<h2 align="center">◈ &nbsp; TECHNOLOGY MATRIX</h2>
-
-<div align="center">
-
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,js,php,python&theme=dark" />
-
-<br/><br/>
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" />
-
-<br/><br/>
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=spring,laravel,mysql,postgres&theme=dark" />
-
-<br/><br/>
-
-### DEVELOPMENT ENVIRONMENT & TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
-
-</div>
+<img src="assets/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JAVA-LEARNING%20%26%20PRACTICE-0077FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-BACKEND-0B9B69?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-FRONTEND-087EA4?style=for-the-badge&logo=react&logoColor=white"/>
-
-</div>
-
-<!-- ================ EXPERIENCE ================ -->
-
-<h2 align="center">◈ &nbsp; PROFESSIONAL EXPERIENCE</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-SOFTWARE%20DEVELOPMENT%20INTERN-0077FF?style=for-the-badge"/>
-
-### Seaquid Technology
-
-**Kolhapur, Maharashtra | April 2026 – September 2026**
-
-</div>
-
-| Area | Experience |
-|---|---|
-| Development | PHP and Laravel |
-| Database | MySQL |
-| Application | Human Resource Management System |
-| Frontend | HTML, CSS, Bootstrap, JavaScript |
-| Backend | MVC architecture and database operations |
-| Practical work | Login pages, forms and HRMS dashboard |
-
-**Key contributions and learning:**
-
-- Worked on live software development projects.
-- Contributed to HRMS dashboard development.
-- Worked on authentication and login interfaces.
-- Developed and integrated application forms.
-- Performed MySQL database operations.
-- Gained practical experience in backend development and teamwork.
-
-<!-- ================ PROJECTS ================ -->
-
-<h2 align="center">◈ &nbsp; PROJECT LAB</h2>
-
-<p align="center">
-<em>Turning concepts into practical software solutions.</em>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>01. HRMS Application</h3>
-
-<img src="https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-**Human Resource Management System**
-
-- Employee management dashboard.
-- Authentication and login pages.
-- Dynamic forms.
-- Database operations.
-- Responsive interface.
-
-<sub>Practical internship experience</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02. Calculator REST API</h3>
-
-<img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-API-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-
-**Backend Development Project**
-
-- REST API architecture.
-- Controller and service layers.
-- Global exception handling.
-- API development and testing.
-- Java backend fundamentals.
-
-<a href="https://github.com/Ppradeep123">Explore my GitHub →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>03. FoodRescue</h3>
-
-<img src="https://img.shields.io/badge/Java-Spring_Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-**Food Donation Management Platform**
-
-- Connect NGOs and volunteers.
-- Manage surplus food donations.
-- Coordinate food distribution.
-- Full-stack application concept.
-
-<sub>Development in progress</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04. 3D Developer Portfolio</h3>
-
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Three.js-3D%20Graphics-black?style=flat-square&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-Development-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-
-**Interactive Developer Portfolio**
-
-- Immersive underwater environment.
-- 3D visual experience.
-- Scroll-driven storytelling.
-- Modern UI effects.
-
-<sub>Personal portfolio project</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/Ppradeep123?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<!-- ================ LEARNING ZONE ================ -->
-
-<h2 align="center">◈ &nbsp; CURRENT LEARNING ZONE</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-ADVANCED%20JAVA-0077FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-COLLECTIONS-0077FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-JDBC%20%26%20HIBERNATE-0077FF?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/04-SPRING%20BOOT-0077FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-REST%20APIs-0077FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-REACT-0077FF?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/07-SQL%20PRACTICE-0077FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/08-DSA-0077FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/09-INTERVIEW%20PREPARATION-0077FF?style=for-the-badge"/>
-
-</div>
-
-<!-- ================ GITHUB ANALYTICS ================ -->
-
-<h2 align="center">◈ &nbsp; GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ppradeep123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=38BDF8&icon_color=0077FF&text_color=CBD5E1&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ppradeep123&layout=compact&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=CBD5E1"/>
+<img src="assets/ticker.svg" width="100%" alt="Java, Spring Boot, React, MySQL, PHP, Laravel, JavaScript, REST APIs, HTML5, CSS3, Bootstrap, Git, GitHub, Postman, IntelliJ IDEA" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Ppradeep123&theme=tokyonight&hide_border=true&background=050B18&ring=0077FF&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,php,laravel,mysql,html,css,bootstrap,python,git,github,postman,vscode,idea&perline=8&theme=dark" alt="tech icons" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ppradeep123&bg_color=050B18&color=38BDF8&line=0077FF&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
-
-</div>
-
-<!-- ================ CONTRIBUTION ANIMATION ================ -->
-
-<h2 align="center">◈ &nbsp; CONTRIBUTION MATRIX</h2>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Ppradeep123/Ppradeep123/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<!-- ================ CONNECT ================ -->
-
-<h2 align="center">◈ &nbsp; ESTABLISH CONNECTION</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Looking+for+Java+Developer+Opportunities;Open+to+Collaboration+and+New+Projects;Let's+Build+Something+Meaningful." />
-
-<br/><br/>
-
-**Currently open to:**
-
-`Java Developer` &nbsp; `Java Full Stack Developer` &nbsp; `Software Developer Trainee`
+<img src="assets/title-experience.svg" width="100%" alt="Experience" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pradeep-patil-2b5896331/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:patilp9931@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20EMAIL-CONTACT-0B3D70?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ppradeep123">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-GITHUB-172554?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="assets/experience.svg" width="100%" alt="Software Development Intern at Seaquid Technology, Kolhapur, April to September 2026" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,50:0B3D70,100:020617&height=150&section=footer&text=CODE.%20CREATE.%20INNOVATE.&fontSize=24&fontColor=FFFFFF&fontAlignY=65"/>
+<img src="assets/title-projects.svg" width="100%" alt="Projects" />
+
+<br/>
+
+<img src="assets/projects.svg" width="100%" alt="Projects: HRMS (Laravel), Student REST API (Spring Boot), FoodRescue (in development)" />
+
+<br/><br/>
+
+<img src="assets/title-learning.svg" width="100%" alt="Learning" />
+
+<br/>
+
+<img src="assets/learning.svg" width="100%" alt="Learning: Advanced Java, Spring Boot, React, Databases, Cloud and DevOps" />
+
+<br/><br/>
+
+<img src="assets/title-stats.svg" width="100%" alt="GitHub Stats" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ppradeep123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ppradeep123&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ppradeep123&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ppradeep123&theme=tokyo-night&hide_border=true&area=true&radius=14" alt="Contribution Graph" width="100%" />
+
+<br/><br/>
+
+<!-- Needs .github/workflows/snake.yml to run once -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ppradeep123/Ppradeep123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ppradeep123/Ppradeep123/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ppradeep123/Ppradeep123/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<img src="assets/title-connect.svg" width="100%" alt="Let's Connect" />
+
+<br/>
+
+**Career objective:** to start my career as a Java Full Stack Developer, building scalable, efficient software while growing as an engineer.
+
+I'm open to **entry-level Java / Software Developer roles**, collaboration and learning opportunities.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/pradeep-patil-2b5896331/"><img src="https://img.shields.io/badge/LinkedIn-Pradeep_Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ppradeep123"><img src="https://img.shields.io/badge/GitHub-Ppradeep123-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:patilp9931@gmail.com"><img src="https://img.shields.io/badge/Email-patilp9931@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="Code. Learn. Build. Improve. Repeat." />
 
 </div>
-
-<!--
-  PROFILE END
-  Built with Markdown, HTML and external SVG services.
-  No local assets required.
--->
